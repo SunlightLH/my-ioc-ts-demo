@@ -1,0 +1,18 @@
+{
+  "name": "ioc-ts",
+  "version": "1.0.0",
+  "description": "基于ts写一个依赖注入的demo 用于更好的理解aop面向切面编程和ioc控制转换 设计装饰器的使用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/esprima": "^4.0.2",
+    "@types/estree": "0.0.45",
+    "esprima": "^4.0.1",
+    "reflect-metadata": "^0.1.13"
+  }
+}
